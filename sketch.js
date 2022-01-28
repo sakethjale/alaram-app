@@ -25,12 +25,12 @@ function setup() {
     greeting = createElement('h1');
     i1 = ""
     i2 = ""
-    if (hour === i1 && min === i2) {
-        alaram.play()
-        alaram.framecount
-        alaram.framecount
+//     if (hour === i1 && min === i2) {
+//         alaram.play()
+//         alaram.framecount
+//         alaram.framecount
 
-    }
+//     }
 }
 function draw() {
     Engine.update(engine);
